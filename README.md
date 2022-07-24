@@ -53,11 +53,11 @@ calculations.
 
 **Parameters**
 
-**cycle**: `Number | Array | Object`, chinese 60 year cicle; if `{Array}` than `[cycle, year, ..., day]`  
-**year**: `Number`, chinese year in cycle  
-**month**: `Number`, chinese month  
+**cycle**: `Number | Array | Object`, Chinese 60 year cycle; if `{Array}` than `[cycle, year, ..., day]`  
+**year**: `Number`, Chinese year in cycle  
+**month**: `Number`, Chinese month  
 **leap**: `Number`, `true` if leap month  
-**day**: `Number`, chinese day
+**day**: `Number`, Chinese day
 
 
 ```js
